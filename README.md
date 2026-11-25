@@ -1,2 +1,4 @@
 # Data-ecosystem-with-boutique-
-#Consulting
+#Consulting 
+#DataEngineering
+#BusinessManagement
